@@ -1,4 +1,4 @@
 euler
 =====
 
-Project Euler solutiosn
+# Project Euler solutions
